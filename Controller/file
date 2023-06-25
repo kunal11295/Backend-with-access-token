@@ -1,0 +1,16 @@
+ fs = file system interaction file 
+
+
+ fs.writefile(filename,data,callbackfunction)(
+
+ fs.writefile('kunal.txt')
+
+
+
+ fs.readfile('/kunal.txt',utf8,(errors,data) => {
+
+ }
+
+ https://nodejs.org/dist/latest-v6.x/docs/api/fs.html
+
+ 
